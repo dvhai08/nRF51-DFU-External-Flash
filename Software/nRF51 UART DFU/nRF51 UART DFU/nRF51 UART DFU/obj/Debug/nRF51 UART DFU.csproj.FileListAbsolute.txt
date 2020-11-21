@@ -1,0 +1,18 @@
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.exe.config
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.exe
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.pdb
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.csprojResolveAssemblyReference.cache
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51_UART_DFU.frmMain.resources
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51_UART_DFU.Properties.Resources.resources
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.csproj.GenerateResource.Cache
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.exe
+D:\HaiDV\C# Project\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.pdb
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.exe.config
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.exe
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.pdb
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.exe
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\bin\Debug\nRF51 UART DFU.pdb
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.csprojResolveAssemblyReference.cache
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51_UART_DFU.frmMain.resources
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51_UART_DFU.Properties.Resources.resources
+D:\GitHub\nRF51-DFU-External-Flash\Software\nRF51 UART DFU\nRF51 UART DFU\nRF51 UART DFU\obj\Debug\nRF51 UART DFU.csproj.GenerateResource.Cache
